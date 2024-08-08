@@ -1,9 +1,9 @@
-import brain_games.setting_game as setting
+import brain_games.setting_game as set
 from brain_games.main_game import calc
 
 
 def main():
-    setting.run_game(calc)
+    set.run_game(calc)
 
 
 if __name__ == '__main__':
