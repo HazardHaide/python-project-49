@@ -2,7 +2,7 @@ from random import randint
 
 
 def game_rules():
-    print('Answer "yes" if given number is prime. Otherwise answer "no".')
+    print('Answer "yes" if given number is prime. Otherwise answer "no"')
 
 
 def ask_question():
